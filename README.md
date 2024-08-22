@@ -10,4 +10,4 @@ Features
 
 ## Screenshots
 <img src = "https://github.com/user-attachments/assets/4cf3d9a3-2867-4c1b-9a84-3c6c645a4e2d" width="260"/>
-<img src = https://github.com/user-attachments/assets/ca4ef541-c267-48bc-bdb0-e77769129318 width="260"/>
+<img src = https://github.com/user-attachments/assets/ca4ef541-c267-48bc-bdb0-e77769129318 width="800"/>
